@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #7f1d1d;
+  --primary-dark: #450a0a;
+}
+
+body {
+  @apply bg-gray-50;
+}
+
+#root {
+  @apply min-h-screen;
+}
