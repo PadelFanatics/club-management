@@ -8,13 +8,12 @@ The intended commerce layer is:
 
 ```text
 Padel Fanatics master store
-+ mystore.gg
-+ Scout.gg account infrastructure
++ mystore.gg account infrastructure
 + club storefront templates
 + supplier-direct dropshipping
 ```
 
-Authenticated access has not yet been inspected, so Shopify, mystore.gg and Scout.gg integration capabilities must be verified before live changes.
+Authenticated access has not yet been inspected, so Shopify and mystore.gg integration capabilities must be verified before live changes.
 
 ## Master catalogue
 

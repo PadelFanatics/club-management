@@ -55,7 +55,7 @@ These are directional benchmarks, not final Padel Club Management pricing.
 
 ## External account limitations
 
-Authenticated Scale.gg, ClickCampaigns, PageBuilder, Alex, Shopify, mystore.gg and Scout.gg accounts were not changed during the audit. A connected authenticated browser session is required before inspecting or modifying those live systems.
+Authenticated Scale.gg, ClickCampaigns, PageBuilder, Alex, Shopify and mystore.gg accounts were not changed during the audit. A connected authenticated browser session is required before inspecting or modifying those live systems.
 
 ## Sources
 

@@ -35,7 +35,7 @@ Local writable documentation workspace:
 3. Commit the documentation folder to GitHub without source changes.
 4. Re-read Dropbox and GitHub to verify backup.
 5. Install dependencies and run build/lint in the app workspace.
-6. Inspect authenticated Scale.gg, ClickCampaigns, PageBuilder, Shopify, mystore.gg and Scout.gg.
+6. Inspect authenticated Scale.gg, ClickCampaigns, PageBuilder, Shopify and mystore.gg.
 7. Build the first 30-day club trial funnel.
 
 ## Safety

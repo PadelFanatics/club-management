@@ -44,4 +44,4 @@ Build an affordable global SaaS and growth platform for English-speaking padel c
 - Do not commit secrets, API keys, customer data, or `.env` files.
 - Do not store video files in GitHub.
 - Clubs own their Kick, GitHub, storage, API keys, and player-consent process.
-- Verify Shopify, mystore.gg, Scout.gg, Scale.gg, ClickCampaigns, and PageBuilder access before changing live accounts.
+- Verify Shopify, mystore.gg, Scale.gg, ClickCampaigns, and PageBuilder access before changing live accounts.
