@@ -41,13 +41,15 @@ Convert or cancel; retain the free account where appropriate.
 
 ## First seven days for the business
 
-1. Confirm name, domains and master offer.
-2. Install dependencies and run the application checks.
-3. Audit Supabase schema and production gaps.
-4. Define the credit wallet data model.
-5. Create the club trial funnel.
-6. Create the first club demo and onboarding videos.
+1. Confirm the Padel Management Package name, buyer, domains and master offer.
+2. Define the Scale.gg/PageBuilder funnel, trial activation path and manual delivery workflow.
+3. Create the offer, pricing, FAQ, onboarding and exclusion content.
+4. Build the first club demo and onboarding videos around Scale.gg.
+5. Create the trial email sequence, onboarding checklist and support boundaries.
+6. Prepare the first approved Kick/VOD setup option as content, not as a software build.
 7. Build a prospect list and begin outreach.
+
+The separate Padel Club Management software app is parked during this first launch sprint. Do not treat its unfinished codebase, Supabase schema or booking flow as a Day 1 blocker.
 
 ## First-club success criteria
 

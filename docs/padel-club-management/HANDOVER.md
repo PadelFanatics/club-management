@@ -30,7 +30,7 @@ Local writable documentation workspace:
 
 ## Next actions
 
-1. Create/activate Hermes project named `Paddle Club Management` with the new documentation workspace as primary.
+1. Create/activate Hermes project named `Padel Club Management` with the new documentation workspace as primary.
 2. Upload the markdown files to the verified Dropbox folder.
 3. Commit the documentation folder to GitHub without source changes.
 4. Re-read Dropbox and GitHub to verify backup.

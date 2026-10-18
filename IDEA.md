@@ -1,0 +1,1 @@
+Building a fully functional Padel club website with backend dashboard to mange the club, run affiliate promotions, sell from an online store, have the Padel scoring app as part of the package. Kick.com added inside the dashboard, a full booking and payment app like Playtomic, tournement running app also

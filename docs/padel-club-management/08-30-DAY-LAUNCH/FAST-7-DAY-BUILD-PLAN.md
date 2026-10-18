@@ -42,28 +42,36 @@ Launch a narrow vertical slice first:
 
 Defer full commerce cloning, advanced automations, multi-sport expansion, design toolkit, full VOD processing and nonessential polish until the first usable club flow is tested.
 
-## Day 1 — Freeze the offer and make the app runnable
+## Day 1 — Define and package the Padel Management Package
 
-- Confirm product name, domain plan, pricing and trial copy.
-- Install dependencies in a clean environment.
-- Run lint and build; record every failure.
-- Inventory frontend routes, API calls, Supabase migrations and mock data.
-- Select one pilot club flow: signup → club setup → court → player → booking → match/result.
-- Create a launch-blocker list, separating must-fix from post-launch.
-- Confirm source control, environment-variable strategy and backups.
+**Scope correction:** the separate Padel Club Management software app is parked. Day 1 is not an app-build or code-readiness day. The immediate product is the sellable Padel Management Package built around Scale.gg, its pages, content, onboarding and delivery assets.
 
-**Exit test:** the app starts locally, the critical route map is known, and the pilot flow is written as acceptance criteria.
+### Before the two-hour checkpoint
 
-## Day 2 — Build the production foundation
+- Write the one-sentence promise for club owners and the specific problem it solves.
+- Freeze the buyer, offer name, $1/30-day trial, plan prices and setup-package prices.
+- Define exactly what is included in the package: Scale.gg account/workspace setup, club marketing assets, lead/booking enquiry funnel, onboarding, campaign templates and support boundaries.
+- List what is explicitly excluded for now: custom software development, full booking-platform replacement, video hosting/processing and unverified integrations.
+- Map the customer journey: discovery → offer page → trial/signup → payment or activation → onboarding → first campaign → upgrade.
+- Create the content inventory: offer page, pricing/trial copy, FAQ, onboarding checklist, setup videos, email sequence, demo script and sales/outreach copy.
+- Create a single launch-blocker list with three columns: **must exist today**, **can be manual**, **defer**.
+- Gather only the Scale.gg/PageBuilder access and brand assets required for the first demo; do not alter live accounts without authenticated access and approval.
 
-- Apply and verify Supabase migrations in a non-production environment.
-- Verify authentication, club creation and administrator membership.
-- Verify Row Level Security and cross-club isolation with two test clubs.
-- Replace hard-coded sample data in the pilot flow.
-- Add server-side validation and error states.
-- Create a safe seed/demo dataset with no real customer data.
+### Two-hour checkpoint
 
-**Exit test:** two test clubs cannot read or modify each other’s records.
+Return with the frozen offer, package contents, exclusions, funnel map, content inventory and blocker list. Then use the next block to build the first Scale.gg/landing-page asset, not the parked app.
+
+**Exit test:** another person can read the offer, understand the $1 trial and next step, see what delivery includes, and follow the complete manual onboarding path without needing the future app.
+
+## Day 2 — Build the Scale.gg delivery foundation
+
+- Build the offer, trial/signup and confirmation/onboarding pages in Scale.gg/PageBuilder.
+- Add the onboarding form, delivery checklist and manual fulfilment workflow.
+- Create the first club demo using fictional or approved sample data.
+- Add the email follow-up sequence and the day-0/day-7 trial messages.
+- Document the handoff point where the future software app may later replace manual work.
+
+**Exit test:** a test contact can move through the Scale.gg funnel, submit onboarding information and receive the correct next-step email without manual page edits.
 
 ## Day 3 — Finish the club operating loop
 
